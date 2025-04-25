@@ -1,6 +1,0 @@
-resilience4j:
-  retry:
-    instances:
-      artists-service:
-        maxAttempts: 2
-        waitDuration: 5s
